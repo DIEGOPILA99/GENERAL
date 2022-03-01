@@ -1,0 +1,7 @@
+1637782071012	Delete element
+1638041346058	Encapsulate field 'id_deportista'
+1638041350567	Encapsulate field 'id_disciplina'
+1638043097449	Rename type 'deportista_en_disciplina'
+1638043268588	Rename type 'deportista_en_disciplinaDAO'
+1638043281208	Rename compilation unit 'deportista_en_disciplinaDAOjdbc.java'
+1638055075457	Delete element

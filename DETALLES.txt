@@ -1,0 +1,5 @@
+Detalles que no modificamos 
+	*Modificar el boton de configuraciones para que funcione en caso de
+	  no escribir el nombre de usuario y la contraseña correcta de workbeanch
+	*Modificar el nombre de los atributos segun el standard o convención
+	
